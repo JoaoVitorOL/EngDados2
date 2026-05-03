@@ -1,6 +1,6 @@
 site_name: Trabalho 2 - Spark com MinIO e Delta Lake
-site_url: https://JoaoVitorOL.github.io/TrabEngDados2/
-repo_url: https://github.com/JoaoVitorOL/TrabEngDados2
+site_url: https://JoaoVitorOL.github.io/EngDados2/
+repo_url: https://github.com/JoaoVitorOL/EngDados2
 
 theme:
   name: material
